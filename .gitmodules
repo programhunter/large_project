@@ -1,0 +1,3 @@
+[submodule "pushyApp"]
+	path = pushyApp
+	url = https://github.com/bhavikaboga/Pushy.git
